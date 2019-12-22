@@ -1,0 +1,118 @@
+
+.header{
+		background-image: url("../img/header.jpg");
+		text-align: blue;
+		text-align: center;
+		color: white;
+		margin: 0px;
+		padding:5px;
+		height: 55px;
+		width: 100%;
+}
+body{
+		padding: 0px;	
+}
+
+nav ul{
+	list-style-type: none;
+	background-color: #3333;
+	padding: 0px 0px 10px 0px;
+	margin: 10px;
+	width: 100%;
+}
+li{
+	float: left;
+}
+nav{
+	background-color: #333333;
+	padding:10px;
+	text-align: right;
+	margin
+}
+nav a{	
+	color: white;
+	padding:10px;
+	text-decoration: none;
+}
+li a:hover{
+  background-color: #111;
+}
+
+.home{
+	padding:0px 5px 5px 0px;
+	border:1px solid black;
+	background-image:url('../img/12.png');
+	background-repeat: no-repeat;
+  	background-size: 100% 600px;
+  	height: 580px;
+  	width: 100%;
+  	text-align: center;
+	}
+section{
+	width: 100%;
+	height: auto;
+	color: black;
+	
+}
+div.firstcolumn{
+	width: 30%;
+	height: auto;
+	background-color: aliceblue;
+	padding-top: 10px;
+	margin-right: 10px;
+	float: left;
+}
+div.secondcolumn{
+	width: 65%;
+	height: auto;
+	background-color: aliceblue;
+	padding: 20px;
+	margin-right: 10px;
+	float: right;
+}
+div.gallery{
+			margin: 5px;
+			border: 1px solid black;
+			float: left;
+			width: 200px;
+			color: white;
+		}
+		div.gallery:hover{
+			border: 2px solid red;
+		}
+div.video{
+			margin: 5px;
+			border: 1px solid black;
+			float: left;
+			width: 300px;
+			height: 150px;
+			color: white;
+		}
+		div.video:hover{
+			border: 2px solid red;
+		}
+
+input[type=submit]{
+			background-color: green;
+			color: white;
+			cursor: pointer;
+		}
+
+form{
+	padding: 10px;
+}
+button{background-color: green;
+			color: white;
+			cursor: pointer;
+			height: 30px;
+			width: 80px;
+			text-align: center;
+
+}
+footer{ 
+	text-align: center;
+	width: 100%;
+	height: auto;
+	float: right;
+	}
+	
