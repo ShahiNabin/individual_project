@@ -10,7 +10,8 @@
 		width: 100%;
 }
 body{
-		padding: 0px;	
+		padding: 0px;
+		background-image:url('../img/12.png');
 }
 
 nav ul{
